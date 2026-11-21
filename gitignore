@@ -1,0 +1,3 @@
+# patched/generated copies of the app are not part of this repo
+*.html
+__pycache__/
