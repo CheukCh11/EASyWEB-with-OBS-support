@@ -46,3 +46,6 @@ This repo contains **only the patch scripts**, not EASyWEB itself. You patch you
 ## License
 
 The scripts in this repo are under the MIT License (see `LICENSE`). EASyWEB and its fonts and images belong to their own authors and licenses; none of that is included here.
+
+## AI Notice
+I am quite afraid that this DOES use artificial intelligence.
