@@ -1,5 +1,5 @@
 # EASyWEB-with-OBS-support
-An EASyPLUS emulator, [EASyWEB](https://github.com/easyweb-project/easyweb), with add-on scripts that have been ported for OBS support.
+An EASyPLUS simulator, [EASyWEB](https://github.com/easyweb-project/easyweb), with add-on scripts that have been ported for OBS support.
 
 - **`patch_obs.py`** adds two new modes to your copy of EASyWEB:
   - `?obs` is a clean display (just the CGEN screen, no sidebar or menu) for an OBS Browser Source.
